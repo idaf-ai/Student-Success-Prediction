@@ -1,5 +1,2 @@
-data/archive/xAPI-Edu-Data.csv
-data/foreign_student_data/student.txt
-data/foreign_student_data/student-mat.csv
-data/foreign_student_data/student-merge.R
-data/foreign_student_data/student-por.csv
+.ipynb_checkpoints
+student-mat.csv
